@@ -1,0 +1,6 @@
+test/*
+!test/.gitattributes
+!test/.gitignore
+!test/.lfsconfig
+!test/Makefile
+.env
