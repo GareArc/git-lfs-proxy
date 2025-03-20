@@ -1,4 +1,5 @@
 test/*
+test/.git
 !test/.gitattributes
 !test/.gitignore
 !test/.lfsconfig
